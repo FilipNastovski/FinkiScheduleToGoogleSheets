@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/FinkiSchedule.iml" filepath="$PROJECT_DIR$/.idea/FinkiSchedule.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/FinkiScheduleToGoogleSheets.iml" filepath="$PROJECT_DIR$/.idea/FinkiScheduleToGoogleSheets.iml" />
     </modules>
   </component>
 </project>
